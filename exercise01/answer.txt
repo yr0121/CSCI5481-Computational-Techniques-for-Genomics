@@ -1,0 +1,4 @@
+Codes are in the questions.py
+The fraction of the input query sequences had a match in the database at 97% or above is: 0.989980656799
+The most common bacterial species in the query set is:  s__Faecalibacterium_prausnitzii
+The average percent similarity of the matches is: 98.462592362

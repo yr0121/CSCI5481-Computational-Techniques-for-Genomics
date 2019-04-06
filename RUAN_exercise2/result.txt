@@ -1,0 +1,51 @@
+python hw2.py -q Human_HOX.fa -r Fly_HOX.fa -m Match_HOX.txt
+Alighment 1 is: YPWMRS
+Alignment 2 is: YPWMRS
+The final score is: 6.0
+Alighment 1 is: RKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQ
+Alignment 2 is: RKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQ
+The final score to align RKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQand RKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQis: 44.0
+Alighment 1 is: KIWFQNRRMKWKKE
+Alignment 2 is: KIWFQNRRMKWKKE
+The final score is: 14.0
+ruanx054@csel-kh4250-32:~/Downloads$ python hw2.py -q Human_HOX.fa -r Fly_HOX.fa -m Match_HOX.txt
+Alighment 1 is: YPWMRS
+Alignment 2 is: YPWMRS
+The final score is: 6.0
+Alighment 1 is: RKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQ
+Alignment 2 is: RKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQ
+The final score to align RKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQ and RKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQ is: 44.0
+Alighment 1 is: KIWFQNRRMKWKKE
+Alignment 2 is: KIWFQNRRMKWKKE
+The final score to align KIWFQNRRMKWKKE and KIWFQNRRMKWKKE is: 14.0
+
+
+ python hw2.py -q Human_PAX.fa -r Fly_PAX.fa -m Match_PAX.txt
+Alighment 1 is: HSGVNQLGGVFV
+Alignment 2 is: HSGVNQLGGVFV
+The final score is: 12.0
+Alighment 1 is: GRPLPDSTRQKIVELAHSGARPCDISRILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVAT
+Alignment 2 is: GRPLPDSTRQKIVELAHSGARPCDISRILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVAT
+The final score is: 63.0
+Alighment 1 is: EVVSKI
+Alignment 2 is: EVVSKI
+The final score to align EVVSKI and EVVSKI is: 6.0
+Alighment 1 is: QYKRECPSIFAWEIRDRLL
+Alignment 2 is: QYKRECPSIFAWEIRDRLL
+The final score is: 19.0
+Alighment 1 is: VCTNDNIPSVSSINRVLRNLA
+Alignment 2 is: VCTNDNIPSVSSINRVLRNLA
+The final score is: 21.0
+Alighment 1 is: LKRKLQRNRTSFT
+Alignment 2 is: LKRKLQRNRTSFT
+The final score is: 13.0
+Alighment 1 is: LEKEFERTHYPDVFARERLA
+Alignment 2 is: LEKEFERTHYPDVFARERLA
+The final score is: 20.0
+Alighment 1 is: LPEARIQVWFSNRRAKWRREEKLRNQRR
+Alignment 2 is: LPEARIQVWFSNRRAKWRREEKLRNQRR
+The final score is: 28.0
+
+
+
+

@@ -1,0 +1,50 @@
+﻿ruanx054@csel-kh1250-10:~/Downloads/csci5481-2015-master/exercise01$ python exercise01.py -q query.fna -r ref.fna -t taxonomy.txt -c /path/to/burst -o output.txt -V
+./burst -r ref.fna -q query.fna --taxonomy taxonomy.txt -o output.txt
+0
+ --> Assigning taxonomy based on input file taxonomy.txt.
+Using up to AVX-128 with 8 threads.
+Parsed 130727 queries.
+Max query len: 101, avg. divergence: 90.764586 (18.509566 w/o dupes)
+Parsed 5000 references.
+There are 5000 references and hence 312 clumps (+1)
+Average R pack length = 1423.881789
+Searching best paths through 35294 unique queries...
+
+Search Progress: [14.38%]
+Search Progress: [16.61%]
+Search Progress: [19.17%]
+Search Progress: [21.09%]
+Search Progress: [23.64%]
+Search Progress: [25.88%]
+Search Progress: [28.12%]
+Search Progress: [30.03%]
+Search Progress: [31.31%]
+Search Progress: [33.55%]
+Search Progress: [40.26%]
+Search Progress: [42.81%]
+Search Progress: [44.41%]
+Search Progress: [46.96%]
+Search Progress: [49.52%]
+Search Progress: [51.76%]
+Search Progress: [54.31%]
+Search Progress: [57.19%]
+Search Progress: [59.11%]
+Search Progress: [60.70%]
+Search Progress: [62.94%]
+Search Progress: [66.45%]
+Search Progress: [69.01%]
+Search Progress: [71.25%]
+Search Progress: [73.80%]
+Search Progress: [76.36%]
+Search Progress: [78.59%]
+Search Progress: [80.83%]
+Search Progress: [84.03%]
+Search Progress: [86.26%]
+Search Progress: [89.46%]
+Search Progress: [92.97%]
+Search Progress: [96.17%]
+Search Progress: [98.08%]
+Search Progress: [100.00%]
+Search complete. Consolidating results...
+
+Alignment time: 2.043930 seconds
